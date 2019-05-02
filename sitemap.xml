@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/categories/</loc>
+    <loc>https://mijinc0.github.io/GitPagesTest/categories/</loc>
     <lastmod>2019-05-02T12:07:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/</loc>
+    <loc>https://mijinc0.github.io/GitPagesTest/</loc>
     <lastmod>2019-05-02T12:07:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/post/postnamehere/</loc>
+    <loc>https://mijinc0.github.io/GitPagesTest/post/postnamehere/</loc>
     <lastmod>2019-05-02T12:07:10+09:00</lastmod>
   </url>
   
   <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/post/</loc>
-    <lastmod>2019-05-02T12:07:10+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/categories/cat2/</loc>
+    <loc>https://mijinc0.github.io/GitPagesTest/post/</loc>
     <lastmod>2019-05-02T12:07:10+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://github.com/mijinc0/GitPagesTest/tags/</loc>
+    <loc>https://mijinc0.github.io/GitPagesTest/categories/cat2/</loc>
+    <lastmod>2019-05-02T12:07:10+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://mijinc0.github.io/GitPagesTest/tags/</loc>
     <priority>0</priority>
   </url>
   
